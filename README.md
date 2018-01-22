@@ -1,3 +1,5 @@
+NUERAL NETWORK FROM SCRATCH FOR MNIST digit classificaion
+
 1. All the train_images, train_labels, _test_images and all the weights should be in the
   same folder for the code to run.
 
